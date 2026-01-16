@@ -15,7 +15,7 @@ namespace Sample406
             Console.WriteLine("6が出たら終了");
             // 無限ループ
             while (true){
-                int dice = rnd.Next(1, 7);
+                int dice = rnd.Next(1, 7);  // 1以上7未満の整数を取得
                 Console.WriteLine(dice);
                 if (dice == 6){
                     break;
