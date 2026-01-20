@@ -1,0 +1,15 @@
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/bin/Debug/net10.0/SampleEx703
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/bin/Debug/net10.0/SampleEx703.deps.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/bin/Debug/net10.0/SampleEx703.runtimeconfig.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/bin/Debug/net10.0/SampleEx703.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/bin/Debug/net10.0/SampleEx703.pdb
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.AssemblyInfoInputs.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.AssemblyInfo.cs
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.csproj.CoreCompileInputs.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.sourcelink.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/refint/SampleEx703.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.pdb
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/SampleEx703.genruntimeconfig.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day7/SampleEx703/obj/Debug/net10.0/ref/SampleEx703.dll
