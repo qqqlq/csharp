@@ -1,0 +1,15 @@
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/bin/Debug/net10.0/Sample601
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/bin/Debug/net10.0/Sample601.deps.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/bin/Debug/net10.0/Sample601.runtimeconfig.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/bin/Debug/net10.0/Sample601.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/bin/Debug/net10.0/Sample601.pdb
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.AssemblyInfoInputs.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.AssemblyInfo.cs
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.csproj.CoreCompileInputs.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.sourcelink.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/refint/Sample601.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.pdb
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/Sample601.genruntimeconfig.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample601/obj/Debug/net10.0/ref/Sample601.dll
