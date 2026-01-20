@@ -1,0 +1,15 @@
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.AssemblyInfoInputs.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.AssemblyInfo.cs
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.csproj.CoreCompileInputs.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.sourcelink.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/bin/Debug/net10.0/Sample602
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/bin/Debug/net10.0/Sample602.deps.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/bin/Debug/net10.0/Sample602.runtimeconfig.json
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/bin/Debug/net10.0/Sample602.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/bin/Debug/net10.0/Sample602.pdb
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/refint/Sample602.dll
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.pdb
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/Sample602.genruntimeconfig.cache
+/Users/qqqlq/Desktop/Program/CSharp/basic/day6/Sample602/obj/Debug/net10.0/ref/Sample602.dll
