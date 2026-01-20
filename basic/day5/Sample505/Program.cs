@@ -27,7 +27,6 @@ namespace Sample505
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine(a);
         }
     }
 }
